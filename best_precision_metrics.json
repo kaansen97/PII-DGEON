@@ -1,0 +1,37 @@
+{
+  "epoch": 3,
+  "global_step": 1968,
+  "timestamp": "2024-10-26T19:31:04.930912",
+  "train_metrics": {
+    "train_loss": 0.0012983963824808598,
+    "train_precision": 1.0,
+    "train_recall": 1.0,
+    "train_f1": 1.0,
+    "train_accuracy": 1.0,
+    "train_precision_label_0": 1.0,
+    "train_recall_label_0": 1.0,
+    "train_f1_label_0": 1.0,
+    "train_precision_label_1": 1.0,
+    "train_recall_label_1": 1.0,
+    "train_f1_label_1": 1.0,
+    "train_precision_label_2": 1.0,
+    "train_recall_label_2": 1.0,
+    "train_f1_label_2": 1.0
+  },
+  "val_metrics": {
+    "val_loss": 0.020924272015690804,
+    "val_precision": 0.9471548199653625,
+    "val_recall": 0.9440147876739502,
+    "val_f1": 0.9436668157577515,
+    "val_accuracy": 0.9440147876739502,
+    "val_precision_label_0": 0.9976325631141663,
+    "val_recall_label_0": 0.9984686374664307,
+    "val_f1_label_0": 0.9980491399765015,
+    "val_precision_label_1": 0.9340932369232178,
+    "val_recall_label_1": 0.9032707810401917,
+    "val_f1_label_1": 0.9159783720970154,
+    "val_precision_label_2": 0.9097387790679932,
+    "val_recall_label_2": 0.9303042888641357,
+    "val_f1_label_2": 0.9169729948043823
+  }
+}

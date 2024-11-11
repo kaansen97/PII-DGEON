@@ -1,0 +1,11 @@
+pandas
+torch
+transformers
+pytorch_lightning
+torchmetrics
+numpy
+safetensors
+scikit-learn
+torchvision
+tqdm
+
